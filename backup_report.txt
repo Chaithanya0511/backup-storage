@@ -1,0 +1,49 @@
+2025-01-19 16:19:07,489 - INFO - Initialized a new Git repository.
+2025-01-19 16:19:07,588 - INFO - Remote repository configured with URL: https://mahee37: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@github.com/Mahee37/BackupRepo.git
+2025-01-19 16:19:07,596 - INFO - Copied D:\Original\MyFile.txt to D:\GitCopy\MyFile.txt
+2025-01-19 16:19:07,945 - INFO - Committed changes with message: Backup on 2025-01-19 16:19:07
+2025-01-19 16:19:07,984 - INFO - Current branch: main
+2025-01-19 16:19:20,636 - WARNING - Failed to pull changes from the remote 'main' branch. Ensure you're on the correct branch and have the latest updates.
+2025-01-19 16:19:32,777 - WARNING - Pushing to remote repository failed. Ensure the branch 'main' exists or credentials are correct.
+2025-01-19 16:19:32,783 - INFO - Backup operation completed successfully.
+2025-01-19 16:24:23,715 - INFO - Git repository already initialized.
+2025-01-19 16:24:23,764 - INFO - Remote repository already configured.
+2025-01-19 16:24:23,764 - INFO - Copied D:\Original\MyFile.txt to D:\GitCopy\MyFile.txt
+2025-01-19 16:24:24,197 - INFO - Committed changes with message: Backup on 2025-01-19 16:24:24
+2025-01-19 16:24:24,240 - INFO - Current branch: main
+2025-01-19 16:24:36,698 - WARNING - Failed to pull changes from the remote 'main' branch. Ensure you're on the correct branch and have the latest updates.
+2025-01-19 16:24:49,011 - WARNING - Pushing to remote repository failed. Ensure the branch 'main' exists or credentials are correct.
+2025-01-19 16:24:49,011 - INFO - Backup operation completed successfully.
+2025-01-19 16:35:05,108 - INFO - Git repository already initialized.
+2025-01-19 16:35:05,167 - INFO - Remote repository already configured.
+2025-01-19 16:35:05,179 - INFO - Copied D:\Original\MyFile.txt to D:\GitCopy\MyFile.txt
+2025-01-19 16:35:05,559 - INFO - Committed changes with message: Backup on 2025-01-19 16:35:05
+2025-01-19 16:35:05,602 - INFO - Current branch: main
+2025-01-19 16:35:18,138 - WARNING - Failed to pull changes from the remote 'main' branch. Ensure you're on the correct branch and have the latest updates.
+2025-01-19 16:35:30,542 - WARNING - Pushing to remote repository failed. Ensure the branch 'main' exists or credentials are correct.
+2025-01-19 16:35:30,542 - INFO - Backup operation completed successfully.
+2025-01-19 16:40:19,749 - INFO - Git repository already initialized.
+2025-01-19 16:40:19,795 - INFO - Remote repository already configured.
+2025-01-19 16:40:19,803 - INFO - Copied D:\Original\MyFile.txt to D:\GitCopy\MyFile.txt
+2025-01-19 16:40:20,187 - INFO - Committed changes with message: Backup on 2025-01-19 16:40:20
+2025-01-19 16:40:20,212 - INFO - Current branch: main
+2025-01-19 16:40:32,718 - INFO - Pulled latest changes from the remote 'main' branch with rebase.
+2025-01-19 16:40:45,672 - INFO - Pushed changes to the remote repository on branch main.
+2025-01-19 16:40:45,673 - INFO - Backup operation completed successfully.
+2025-01-19 20:11:14,943 - INFO - Git repository already initialized.
+2025-01-19 20:11:15,121 - INFO - Remote repository already configured.
+2025-01-19 20:11:15,179 - INFO - Copied D:\Original\MyFile.txt to D:\GitCopy\MyFile.txt
+2025-01-19 20:11:15,653 - INFO - Committed changes with message: Backup on 2025-01-19 20:11:15
+2025-01-19 20:11:15,693 - INFO - Current branch: main
+2025-01-19 20:11:18,194 - INFO - Pulled latest changes from the remote 'main' branch with rebase.
+2025-01-19 20:11:20,518 - INFO - Pushed changes to the remote repository on branch main.
+2025-01-19 20:11:20,518 - INFO - Backup operation completed successfully.
+2025-01-19 20:20:45,478 - INFO - Git repository already initialized.
+2025-01-19 20:20:45,555 - INFO - Remote repository already configured.
+2025-01-19 20:20:45,673 - INFO - Copied D:\Original\MyBackup.py to D:\GitCopy\MyBackup.py
+2025-01-19 20:20:45,674 - INFO - Copied D:\Original\MyFile.txt to D:\GitCopy\MyFile.txt
+2025-01-19 20:20:46,086 - INFO - Committed changes with message: Backup on 2025-01-19 20:20:45
+2025-01-19 20:20:46,156 - INFO - Current branch: main
+2025-01-19 20:20:47,937 - WARNING - Failed to pull changes from the remote 'main' branch. Ensure you're on the correct branch and have the latest updates.
+2025-01-19 20:20:49,705 - WARNING - Pushing to remote repository failed. Ensure the branch 'main' exists or credentials are correct.
+2025-01-19 20:20:49,706 - INFO - Backup operation completed successfully.
